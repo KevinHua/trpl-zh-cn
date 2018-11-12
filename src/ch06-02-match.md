@@ -2,7 +2,7 @@
 
 > [ch06-02-match.md](https://github.com/rust-lang/book/blob/master/second-edition/src/ch06-02-match.md)
 > <br>
-> commit 18fd30d70f4d6ee67e0a808710bf7a3135ef7ed6
+> commit 923201d5117c45bf78ce433422b50e4de9bd9b11
 
 Rust 有一个叫做 `match` 的极为强大的控制流运算符，它允许我们将一个值与一系列的模式相比较并根据相匹配的模式执行相应代码。模式可由字面值、变量、通配符和许多其他内容构成；第十八章会涉及到所有不同种类的模式以及它们的作用。`match` 的力量来源于模式的表现力以及编译器检查，它确保了所有可能的情况都得到处理。
 
